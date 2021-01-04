@@ -34,6 +34,7 @@
 ## Applications
 -	What dependencies do the applications have i.e. libraries etc., how will these be made available
 -	How long does an application take to setup, this might determine how an application is made available to the execute nodes
+-   Are there any license dependancies that need to be taken into account? i.e. contacting a license server on-premises
 -	Determine where applications will be executed from, this will be dependent on install times and performance requirements:
     -   Through a custom image: 
         -   [Custom Images in a CycleCloud Cluster](https://docs.microsoft.com/en-us/azure/cyclecloud/how-to/create-custom-image?view=cyclecloud-8)
